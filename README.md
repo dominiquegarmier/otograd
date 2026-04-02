@@ -2,7 +2,7 @@
 
 Very small OCaml autograd and MNIST demo.
 
-```sh
+```
 make help                    # show all targets
 make build                   # build the project
 make data                    # download and unpack MNIST into data/mnist
